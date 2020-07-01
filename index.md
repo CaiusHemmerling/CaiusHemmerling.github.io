@@ -6,3 +6,10 @@ Severus Snape ist ein Character aus der Harry Potter Reihe. In Harrys ersten Sch
 * Liebte Harrys Mutter, Lilly Potter
 * Sehr Mysteriöser Character
 * Heimlicher Held der Geschichte
+
+There is this one very famous scene betwen Dubledore and Snape. They are talking about Harry and Dumbledore realizes, that Snape loved Lilly Potter.
+
+Dumbledore asks Snape:
+> After all this time?
+And Snape answers with:
+> Always!
